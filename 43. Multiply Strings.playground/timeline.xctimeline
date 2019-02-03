@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/samatbek/Leetcode/43.%20Multiply%20Strings.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=1154&amp;EndingColumnNumber=0&amp;EndingLineNumber=40&amp;StartingColumnNumber=36&amp;StartingLineNumber=39&amp;Timestamp=570888173.160226"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
